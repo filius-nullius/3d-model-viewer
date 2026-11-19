@@ -1,0 +1,504 @@
+# FILE:sample_project.obj
+newmtl GDLM1_SHADOW_MATERIAL
+Ka 0.228885 0.228885 0.228885
+Kd 0.228885 0.228885 0.228885
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl terep_-_termett_talaj
+Ka 0.452706 0.318118 0.229412
+Kd 0.580392 0.407843 0.294118
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Earth - Section -opt.jpg
+map_Kd sample_project_Textures\Earth - Section -opt.jpg
+map_Ks sample_project_Textures\Earth - Section -opt.jpg
+newmtl beton_-_alapozás,_monolit
+Ka 0.335529 0.335529 0.335529
+Kd 0.541176 0.541176 0.541176
+Ks 0.184471 0.193255 0.217412
+illum 2
+Ns 0.84
+map_Ka sample_project_Textures\Concrete - 28 cb -opt.jpg
+map_Kd sample_project_Textures\Concrete - 28 cb -opt.jpg
+map_Ks sample_project_Textures\Concrete - 28 cb -opt.jpg
+newmtl beton_-_előregyártott
+Ka 0.491647 0.491647 0.491647
+Kd 0.663333 0.663333 0.663333
+Ks 0.0759216 0.0759216 0.0759216
+illum 2
+Ns 0.36
+map_Ka sample_project_Textures\Concrete - Light crbn -opt.jpg
+map_Kd sample_project_Textures\Concrete - Light crbn -opt.jpg
+map_Ks sample_project_Textures\Concrete - Light crbn -opt.jpg
+newmtl vakolat_-_homlokzati_vakolat,_közép
+Ka 0.679412 0.608824 0.502941
+Kd 0.697529 0.625059 0.516353
+Ks 0.12898 0.125922 0.123373
+illum 2
+Ns 0.84
+map_Ka sample_project_Textures\Stucco - Beige Rough c -opt.jpg
+map_Kd sample_project_Textures\Stucco - Beige Rough c -opt.jpg
+map_Ks sample_project_Textures\Stucco - Beige Rough c -opt.jpg
+newmtl vakolat_-_belső_vakolat,_világos
+Ka 0.93 0.93 0.93
+Kd 0.41 0.41 0.41
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl fém_-_cinklemez
+Ka 0.528 0.533647 0.553412
+Kd 0.337333 0.340941 0.353569
+Ks 0.268534 0.284199 0.298111
+illum 2
+Ns 2.2
+newmtl vakolat_-_lábazati_vakolat
+Ka 0.281216 0.256157 0.228314
+Kd 0.324784 0.295843 0.263686
+Ks 0.25098 0.25098 0.25098
+illum 2
+Ns 11
+newmtl fa_-_kőris
+Ka 0.559647 0.509725 0.446667
+Kd 0.517882 0.471686 0.413333
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Wood - Ash 01 -opt.jpg
+map_Kd sample_project_Textures\Wood - Ash 01 -opt.jpg
+map_Ks sample_project_Textures\Wood - Ash 01 -opt.jpg
+newmtl vakolat_-_homlokzati_vakolat,_világos
+Ka 0.75 0.75 0.75
+Kd 0.95 0.95 0.95
+Ks 0.0793725 0.0774902 0.0759216
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Stucco - White Rough cb -opt.jpg
+map_Kd sample_project_Textures\Stucco - White Rough cb -opt.jpg
+map_Ks sample_project_Textures\Stucco - White Rough cb -opt.jpg
+newmtl falburkolat_-_ereszalja_2
+Ka 0.288235 0.262745 0.235294
+Kd 0.541882 0.493961 0.442353
+Ks 0.247501 0.247501 0.25
+illum 2
+Ns 0.68
+map_Ka sample_project_Textures\Siding - Medium -opt.jpg
+map_Kd sample_project_Textures\Siding - Medium -opt.jpg
+map_Ks sample_project_Textures\Siding - Medium -opt.jpg
+newmtl növényzet_-_gyep,_száraz
+Ka 0.350275 0.425765 0.169098
+Kd 0.332078 0.403647 0.160314
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Grass - Brown cb -opt.jpg
+map_Kd sample_project_Textures\Grass - Brown cb -opt.jpg
+map_Ks sample_project_Textures\Grass - Brown cb -opt.jpg
+newmtl tetőfedés_-_cserép,_natúr
+Ka 0.390196 0.288235 0.227451
+Kd 0.234118 0.172941 0.136471
+Ks 0.152 0.152 0.152
+illum 2
+Ns 11
+map_Ka sample_project_Textures\Roof Tiles - Terracotta -opt.jpg
+map_Kd sample_project_Textures\Roof Tiles - Terracotta -opt.jpg
+map_Ks sample_project_Textures\Roof Tiles - Terracotta -opt.jpg
+newmtl falburkolat_-_ereszalja
+Ka 0.443882 0.404627 0.362353
+Kd 0.541882 0.493961 0.442353
+Ks 0.247501 0.247501 0.25
+illum 2
+Ns 0.68
+map_Ka sample_project_Textures\Siding - Medium -opt.jpg
+map_Kd sample_project_Textures\Siding - Medium -opt.jpg
+map_Ks sample_project_Textures\Siding - Medium -opt.jpg
+newmtl fém_-_acél_tartószerkezet
+Ka 0.517373 0.532863 0.535961
+Kd 0.261961 0.269804 0.271373
+Ks 0.373529 0.373529 0.373529
+illum 2
+Ns 6.2
+newmtl padlóburkolat_-_kültéri_beton_térkő
+Ka 0.593412 0.633176 0.639294
+Kd 0.555373 0.592588 0.598314
+Ks 0.252549 0.245961 0.233882
+illum 2
+Ns 4.2
+map_Ka sample_project_Textures\Pavement - Concrete 02 cb -opt.jpg
+map_Kd sample_project_Textures\Pavement - Concrete 02 cb -opt.jpg
+map_Ks sample_project_Textures\Pavement - Concrete 02 cb -opt.jpg
+newmtl terep_-_homok
+Ka 0.209098 0.162902 0.0948235
+Kd 0.337255 0.262745 0.152941
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Earth - 01 cb -opt.jpg
+map_Kd sample_project_Textures\Earth - 01 cb -opt.jpg
+map_Ks sample_project_Textures\Earth - 01 cb -opt.jpg
+newmtl beton_-_szerkezeti,_monolit
+Ka 0.407647 0.417529 0.427412
+Kd 0.55 0.563333 0.576667
+Ks 0.158745 0.158745 0.158745
+illum 2
+Ns 2.6
+map_Ka sample_project_Textures\Concrete - Dark crbn -opt.jpg
+map_Kd sample_project_Textures\Concrete - Dark crbn -opt.jpg
+map_Ks sample_project_Textures\Concrete - Dark crbn -opt.jpg
+newmtl kő_-_műkő
+Ka 0.472941 0.472941 0.472941
+Kd 0.437647 0.437647 0.437647
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Stone - Granite Gray -opt.jpg
+map_Kd sample_project_Textures\Stone - Granite Gray -opt.jpg
+map_Ks sample_project_Textures\Stone - Granite Gray -opt.jpg
+newmtl terep_-_zúzottkő
+Ka 0.338941 0.338941 0.338941
+Kd 0.313647 0.313647 0.313647
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Stonework - Ballast Stone -opt.jpg
+map_Kd sample_project_Textures\Stonework - Ballast Stone -opt.jpg
+map_Ks sample_project_Textures\Stonework - Ballast Stone -opt.jpg
+newmtl fa_-_juhar
+Ka 0.593804 0.538627 0.459804
+Kd 0.54949 0.498431 0.42549
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Wood - Maple Light -opt.jpg
+map_Kd sample_project_Textures\Wood - Maple Light -opt.jpg
+map_Ks sample_project_Textures\Wood - Maple Light -opt.jpg
+newmtl beton_-_zsalukő
+Ka 0.373529 0.373529 0.373529
+Kd 0.373529 0.373529 0.373529
+Ks 0.428039 0.428039 0.428039
+illum 2
+Ns 1
+map_Ka sample_project_Textures\Concrete - 07 cb -opt.jpg
+map_Kd sample_project_Textures\Concrete - 07 cb -opt.jpg
+map_Ks sample_project_Textures\Concrete - 07 cb -opt.jpg
+newmtl hőszigetelés_-_EPS
+Ka 0.717647 0.717647 0.717647
+Kd 0.717647 0.717647 0.717647
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl hőszigetelés_-_XPS
+Ka 0.414706 0.585294 0.567647
+Kd 0.414706 0.585294 0.567647
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl falazat_-_kerámia_falazóelem
+Ka 0.538039 0.436471 0.378824
+Kd 0.538039 0.436471 0.378824
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Brick - Perforated Vertical -opt.jpg
+map_Kd sample_project_Textures\Brick - Perforated Vertical -opt.jpg
+map_Ks sample_project_Textures\Brick - Perforated Vertical -opt.jpg
+newmtl vízszigetelés_-_bitumenes_lemez
+Ka 0.0917647 0.0917647 0.0917647
+Kd 0.075451 0.075451 0.075451
+Ks 0.0984706 0.111843 0.128863
+illum 2
+Ns 0.4
+map_Ka sample_project_Textures\Waterproofing - Bituminous Felt -opt.jpg
+map_Kd sample_project_Textures\Waterproofing - Bituminous Felt -opt.jpg
+map_Ks sample_project_Textures\Waterproofing - Bituminous Felt -opt.jpg
+newmtl PEN_MATERIAL1
+Ka 0.15259 0.15259 0.15259
+Kd 0.15259 0.15259 0.15259
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM28_PEN_MATERIAL0
+Ka 0.844892 0.844892 0.844892
+Kd 0.844892 0.844892 0.844892
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl padlóburkolat_-_beltéri_greslap
+Ka 0.395294 0.395294 0.395294
+Kd 0.395294 0.395294 0.395294
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Tiles - Gray 30x60 -opt.jpg
+map_Kd sample_project_Textures\Tiles - Gray 30x60 -opt.jpg
+map_Ks sample_project_Textures\Tiles - Gray 30x60 -opt.jpg
+newmtl falburkolat_-_ereszalja_3
+Ka 0.288235 0.262745 0.235294
+Kd 0.541882 0.493961 0.442353
+Ks 0.247501 0.247501 0.25
+illum 2
+Ns 0.68
+map_Ka sample_project_Textures\Siding - Medium -opt.jpg
+map_Kd sample_project_Textures\Siding - Medium -opt.jpg
+map_Ks sample_project_Textures\Siding - Medium -opt.jpg
+newmtl szín_02_-_titánfehér
+Ka 0.8 0.8 0.8
+Kd 0.89 0.89 0.89
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl GDLM32_Opaque
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl beton_-_esztrich
+Ka 0.308784 0.308784 0.308784
+Kd 0.498039 0.498039 0.498039
+Ks 0.177882 0.186353 0.209647
+illum 2
+Ns 0.92
+map_Ka sample_project_Textures\Concrete - 03 -opt.jpg
+map_Kd sample_project_Textures\Concrete - 03 -opt.jpg
+map_Ks sample_project_Textures\Concrete - 03 -opt.jpg
+newmtl falburkolat_-_fa
+Ka 0.383608 0.299529 0.249608
+Kd 0.35498 0.277176 0.23098
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Wooden Plank - Horizontal Brown 01 -opt.jpg
+map_Kd sample_project_Textures\Wooden Plank - Horizontal Brown 01 -opt.jpg
+map_Ks sample_project_Textures\Wooden Plank - Horizontal Brown 01 -opt.jpg
+newmtl fa_-_tartószerkezet
+Ka 0.572784 0.530745 0.454549
+Kd 0.530039 0.491137 0.420627
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Wood - Pine Grained Horizontal -opt.jpg
+map_Kd sample_project_Textures\Wood - Pine Grained Horizontal -opt.jpg
+map_Ks sample_project_Textures\Wood - Pine Grained Horizontal -opt.jpg
+newmtl gipszkarton_tábla_-_normál
+Ka 0.574588 0.574588 0.574588
+Kd 0.827059 0.827059 0.827059
+Ks 0.01 0.01 0.01
+illum 2
+Ns 0.16
+map_Ka sample_project_Textures\Stucco - Gray Fine c -opt.jpg
+map_Kd sample_project_Textures\Stucco - Gray Fine c -opt.jpg
+map_Ks sample_project_Textures\Stucco - Gray Fine c -opt.jpg
+newmtl anyag_-_OSB_tábla_
+Ka 0.562275 0.486078 0.404627
+Kd 0.520314 0.449804 0.374431
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Wood - OSB 01 -opt.jpg
+map_Kd sample_project_Textures\Wood - OSB 01 -opt.jpg
+map_Ks sample_project_Textures\Wood - OSB 01 -opt.jpg
+newmtl hőszigetelés_-_kőzetgyapot
+Ka 0.823333 0.753333 0.516667
+Kd 0.397137 0.363373 0.249216
+Ks 0.155608 0.152471 0.131137
+illum 2
+Ns 0.6
+map_Ka sample_project_Textures\Insulation - Fiberglass -opt.jpg
+map_Kd sample_project_Textures\Insulation - Fiberglass -opt.jpg
+map_Ks sample_project_Textures\Insulation - Fiberglass -opt.jpg
+newmtl padlóburkolat_-_beltéri_hajópadló
+Ka 0.407255 0.383608 0.357333
+Kd 0.376863 0.35498 0.330667
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Siding - Medium -opt.jpg
+map_Kd sample_project_Textures\Siding - Medium -opt.jpg
+map_Ks sample_project_Textures\Siding - Medium -opt.jpg
+newmtl szín_01_-_fényes_fehér
+Ka 0.86 0.86 0.86
+Kd 0.81 0.81 0.81
+Ks 0.0892941 0.0892941 0.09
+illum 2
+Ns 0
+newmtl víz_-_medence
+Ka 0.400314 0.690196 0.862745
+Kd 0.241098 0.415686 0.519608
+Ks 1 1 1
+illum 2
+d 0.64
+Ns 5.4
+map_Ka sample_project_Textures\Water - Pool -opt.jpg
+map_Kd sample_project_Textures\Water - Pool -opt.jpg
+map_Ks sample_project_Textures\Water - Pool -opt.jpg
+newmtl víz_-_természetes
+Ka 0.414118 0.610824 0.686745
+Kd 0.235294 0.347059 0.390196
+Ks 1 1 1
+illum 2
+Ns 28
+map_Ka sample_project_Textures\Water - Natural -opt.jpg
+map_Kd sample_project_Textures\Water - Natural -opt.jpg
+map_Ks sample_project_Textures\Water - Natural -opt.jpg
+newmtl anyag_-_műanyag,_bádogozás
+Ka 0.348235 0.32 0.301176
+Kd 0.348235 0.32 0.301176
+Ks 0.3 0.3 0.3
+illum 2
+Ns 8.6
+newmtl anyag_-_műanyag,_fehér
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.3 0.3 0.3
+illum 2
+Ns 8.6
+newmtl üveg_-_átlátszó
+Ka 0.137255 0.137255 0.14
+Kd 0.980392 0.980392 1
+Ks 1 1 1
+illum 2
+d 0.17
+Ns 38.56
+newmtl fém_-_titánlemez
+Ka 0.517647 0.501961 0.482353
+Kd 0.517647 0.501961 0.482353
+Ks 0.685294 0.685294 0.685294
+illum 2
+Ns 36
+newmtl anyag_-_CPL_nyílászáró
+Ka 0.609569 0.578039 0.54651
+Kd 0.564078 0.534902 0.505725
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Wood - Ash White -opt.jpg
+map_Kd sample_project_Textures\Wood - Ash White -opt.jpg
+map_Ks sample_project_Textures\Wood - Ash White -opt.jpg
+newmtl anyag_-_műanyag,_szürkésbarna
+Ka 0.357647 0.332549 0.310588
+Kd 0.357647 0.332549 0.310588
+Ks 0.3 0.3 0.3
+illum 2
+Ns 8.6
+newmtl fém_-_vas
+Ka 0.243016 0.252075 0.271919
+Kd 0.198562 0.205964 0.222178
+Ks 0.24902 0.24902 0.24902
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Metal - Iron -opt.jpg
+map_Kd sample_project_Textures\Metal - Iron -opt.jpg
+map_Ks sample_project_Textures\Metal - Iron -opt.jpg
+newmtl tetőfedés_-_cserép,_élgerinc,_natúr_2
+Ka 0.313725 0.227451 0.190196
+Kd 0.470588 0.341176 0.285294
+Ks 0.269804 0.133333 0
+illum 2
+Ns 1
+newmtl fém_-_króm
+Ka 0.486863 0.486863 0.486863
+Kd 0.224706 0.224706 0.224706
+Ks 0.96 0.96 0.96
+illum 2
+Ns 53.92
+newmtl GDLM52_builtInMatBlackPlasti
+Ka 0.05 0.0470588 0.0441176
+Kd 0.05 0.0470588 0.0441176
+Ks 0.352941 0.352941 0.352941
+illum 2
+Ns 5
+newmtl szín_06_-_elefántcsontfekete
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl GDLM54_fan_grill
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.12 0.12 0.12
+illum 2
+d 0.99
+Ns 50
+map_Ka sample_project_Textures\Air Source Heat Pump 25.jpg
+map_Kd sample_project_Textures\Air Source Heat Pump 25.jpg
+map_Ks sample_project_Textures\Air Source Heat Pump 25.jpg
+newmtl szín_05_-_antracit
+Ka 0.1454 0.1454 0.1454
+Kd 0.1454 0.1454 0.1454
+Ks 0.0913024 0.0913024 0.0913024
+illum 2
+Ns 4.2
+newmtl szín_03_-_világosszürke
+Ka 0.467765 0.467765 0.467765
+Kd 0.540235 0.540235 0.540235
+Ks 0.366667 0.366667 0.366667
+illum 2
+Ns 11
+newmtl szín_04_-_sötétszürke
+Ka 0.253373 0.253373 0.253373
+Kd 0.292627 0.292627 0.292627
+Ks 0.25098 0.25098 0.25098
+illum 2
+Ns 11
+newmtl üveg_-_kékes
+Ka 0.332 0.362 0.452
+Kd 0.65098 0.709804 0.886275
+Ks 1 1 1
+illum 2
+d 0.24
+Ns 38.56
+newmtl anyag_-_bőr,_fehér
+Ka 0.734118 0.718824 0.703529
+Kd 0.367059 0.359412 0.351765
+Ks 0.29 0.29 0.29
+illum 2
+Ns 0.96
+map_Ka sample_project_Textures\Leather - White rb -opt.jpg
+map_Kd sample_project_Textures\Leather - White rb -opt.jpg
+map_Ks sample_project_Textures\Leather - White rb -opt.jpg
+newmtl üveg_-_lámpa
+Ka 0.4 0.395294 0.337255
+Kd 0 0 0
+Ks 0.73 0.73 0.73
+illum 2
+d 0.86
+Ns 0.96
+newmtl szín_16_-_kadmium_narancs
+Ka 0.795922 0.212471 0.0640784
+Kd 0.749647 0.200118 0.0603529
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl üveg_-_tükör
+Ka 0.745098 0.786078 0.793529
+Kd 0.196078 0.206863 0.208824
+Ks 1 1 1
+illum 2
+Ns 46.24
+newmtl GDLM63_builtInMatBlackTyre
+Ka 0.0860066 0.0860066 0.0860066
+Kd 0.0810062 0.0810062 0.0810062
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl fa_-_mahagóni,_vertikális
+Ka 0.399373 0.191804 0.141882
+Kd 0.369569 0.17749 0.131294
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka sample_project_Textures\Wood - Mahogany Vertical -opt.jpg
+map_Kd sample_project_Textures\Wood - Mahogany Vertical -opt.jpg
+map_Ks sample_project_Textures\Wood - Mahogany Vertical -opt.jpg
+newmtl anyag_-_bőr,_dohányszín
+Ka 0.284798 0.11335 0.0423066
+Kd 0.289884 0.115374 0.043062
+Ks 0.542196 0.454667 0.413333
+illum 2
+Ns 4.6
+map_Ka sample_project_Textures\Leather - Tabac rb -opt.jpg
+map_Kd sample_project_Textures\Leather - Tabac rb -opt.jpg
+map_Ks sample_project_Textures\Leather - Tabac rb -opt.jpg

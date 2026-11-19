@@ -1,0 +1,50 @@
+{
+ "models": [
+  {
+   "id": "sample_project",
+   "name": "Sample project",
+   "folder": "models/sample_project/",
+   "obj": "sample_project.obj.gz",
+   "mtl": "sample_project.mtl",
+   "textures": [
+    "sample_project_Textures/Air Source Heat Pump 25.jpg",
+    "sample_project_Textures/Brick - Perforated Vertical -opt.jpg",
+    "sample_project_Textures/Concrete - 03 -opt.jpg",
+    "sample_project_Textures/Concrete - 07 cb -opt.jpg",
+    "sample_project_Textures/Concrete - 28 cb -opt.jpg",
+    "sample_project_Textures/Concrete - Dark crbn -opt.jpg",
+    "sample_project_Textures/Concrete - Light crbn -opt.jpg",
+    "sample_project_Textures/Earth - 01 cb -opt.jpg",
+    "sample_project_Textures/Earth - Section -opt.jpg",
+    "sample_project_Textures/Grass - Brown cb -opt.jpg",
+    "sample_project_Textures/Insulation - Fiberglass -opt.jpg",
+    "sample_project_Textures/Leather - Tabac rb -opt.jpg",
+    "sample_project_Textures/Leather - White rb -opt.jpg",
+    "sample_project_Textures/Metal - Iron -opt.jpg",
+    "sample_project_Textures/Pavement - Concrete 02 cb -opt.jpg",
+    "sample_project_Textures/Roof Tiles - Terracotta -opt.jpg",
+    "sample_project_Textures/Siding - Medium -opt.jpg",
+    "sample_project_Textures/Stone - Granite Gray -opt.jpg",
+    "sample_project_Textures/Stonework - Ballast Stone -opt.jpg",
+    "sample_project_Textures/Stucco - Beige Rough c -opt.jpg",
+    "sample_project_Textures/Stucco - Gray Fine c -opt.jpg",
+    "sample_project_Textures/Stucco - White Rough cb -opt.jpg",
+    "sample_project_Textures/Tiles - Gray 30x60 -opt.jpg",
+    "sample_project_Textures/Water - Natural -opt.jpg",
+    "sample_project_Textures/Water - Pool -opt.jpg",
+    "sample_project_Textures/Waterproofing - Bituminous Felt -opt.jpg",
+    "sample_project_Textures/Wood - Ash 01 -opt.jpg",
+    "sample_project_Textures/Wood - Ash White -opt.jpg",
+    "sample_project_Textures/Wood - Mahogany Vertical -opt.jpg",
+    "sample_project_Textures/Wood - Maple Light -opt.jpg",
+    "sample_project_Textures/Wood - OSB 01 -opt.jpg",
+    "sample_project_Textures/Wood - Pine Grained Horizontal -opt.jpg",
+    "sample_project_Textures/Wooden Plank - Horizontal Brown 01 -opt.jpg"
+   ],
+   "parts": [
+    "sample_project.obj.gz.part0",
+    "sample_project.obj.gz.part1"
+   ]
+  }
+ ]
+}
