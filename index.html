@@ -108,6 +108,7 @@ body{position:relative}
       <button class="mode" data-mode="hidden" data-i="m_hidden"></button>
       <button class="mode" data-mode="wire" data-i="m_wire"></button>
     </div>
+    <div class="sub" data-i="sReal"></div>
     <label class="ly"><input type="checkbox" id="aoOn"> <span data-i="ao"></span></label>
     <div id="aoSet" style="display:none">
       <div class="fld"><span data-i="aoStr"></span><input type="range" id="aoStr" min="0" max="1" step="0.05" value="1"></div>
@@ -117,11 +118,10 @@ body{position:relative}
     <div id="bumpSet" style="display:none">
       <div class="fld"><span data-i="bumpStr"></span><input type="range" id="bumpStr" min="0.2" max="6" step="0.2" value="2.4"></div>
     </div>
-    <div class="sub" data-i="sReal"></div>
-    <div class="fld"><span data-i="tone"></span><select id="toneSel"><option value="none" data-i="tone_none"></option><option value="aces">ACES</option><option value="agx">AgX</option><option value="neutral">Neutral</option></select></div>
-    <div id="toneSet" style="display:none"><div class="fld"><span data-i="expo"></span><input type="range" id="expo" min="0.3" max="2.5" step="0.05" value="1"></div></div>
     <label class="ly"><input type="checkbox" id="skyOn"> <span data-i="sky"></span></label>
     <label class="ly"><input type="checkbox" id="pbrOn" disabled> <span data-i="pbr"></span></label>
+    <div class="fld"><span data-i="tone"></span><select id="toneSel"><option value="none" data-i="tone_none"></option><option value="aces">ACES</option><option value="agx">AgX</option><option value="neutral">Neutral</option></select></div>
+    <div id="toneSet" style="display:none"><div class="fld"><span data-i="expo"></span><input type="range" id="expo" min="0.3" max="2.5" step="0.05" value="1"></div></div>
   </details>
   <details><summary data-i="sView"></summary>
     <div class="seg" id="vtype"><button data-vt="persp" class="on" data-i="vt_persp"></button><button data-vt="ortho" data-i="vt_ortho"></button><button data-vt="fps" data-i="vt_fps"></button></div>
